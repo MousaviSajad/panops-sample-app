@@ -1,0 +1,1 @@
+if input_data is not None and input_data != '': data = some_function(input_data) else: print('Invalid input')
