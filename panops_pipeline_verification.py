@@ -1,0 +1,1 @@
+if input_data is not None: data = some_function(input_data) else: data = default_value
