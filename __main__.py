@@ -1,0 +1,1 @@
+if value is None: raise ValueError('Invalid input')
