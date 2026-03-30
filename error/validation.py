@@ -1,0 +1,1 @@
+if 'action' in request_data and 'timestamp' in request_data:
