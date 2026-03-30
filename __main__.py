@@ -1,0 +1,1 @@
+if 'some_key' in pipeline_data: data = pipeline_data['some_key'] else: data = None
