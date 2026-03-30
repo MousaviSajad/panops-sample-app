@@ -1,0 +1,1 @@
+if 'price' in data: price = data['price']; else: price = None
