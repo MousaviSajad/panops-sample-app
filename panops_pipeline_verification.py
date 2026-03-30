@@ -1,0 +1,1 @@
+if pipeline_data and len(pipeline_data) > 0: data = pipeline_data[0]
