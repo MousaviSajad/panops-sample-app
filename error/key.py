@@ -1,0 +1,1 @@
+data = {'name': 'John', 'age': 30, 'price': None}
